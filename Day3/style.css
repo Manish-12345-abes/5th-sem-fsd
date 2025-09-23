@@ -1,0 +1,11 @@
+.container-box {
+      display: flex;
+      flex-direction: column; /* Stack items vertically */
+      width: 200px;          /* Optional fixed width */
+    }
+    .box {
+      border: 1px solid black;
+      padding: 20px;
+      margin: 5px 0;
+      text-align: center;
+    }
